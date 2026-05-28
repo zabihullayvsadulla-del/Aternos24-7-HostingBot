@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "SAMIKMC.aternos.me",
+    "port": 21052,
     "version": "",
     "try-creative": false
   },
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/6z5Sw8Xk",
     "events": {
       "connect": true,
       "disconnect": true,
